@@ -1,0 +1,12 @@
+[
+    {
+        "location": "Paris",
+        "nation": "France",
+        "start": "2025-03-04",
+        "end": "2025-03-09",
+        "budget": 2000.0,
+        "interests": [
+            "eiffel tower"
+        ]
+    }
+]
